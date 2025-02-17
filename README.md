@@ -27,6 +27,7 @@ npm start
 # 🌍 Open the application in your browser
 http://localhost:3000
 
+```
 ## 🛠️ Technologies Used
 
 - ⚛️ React.js
@@ -38,5 +39,5 @@ http://localhost:3000
 - 🎭 Improve UI/UX with animations.
 - 💾 Allow users to save generated passwords.
 
-## 📷 Preview  
-![Project Preview](./public/porject_view.png) 
+##📷 Preview  
+![Project Preview](./public/project_view.png) 
